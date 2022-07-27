@@ -1,4 +1,4 @@
-# FIREBASE CHAT
+# Firebase Chat
 
 Create a chat application using Firebase as your backend.
 
