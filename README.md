@@ -16,7 +16,7 @@ You will focus on the frontend, and Firebase will be your backend.
 
 **Surprise us! 😉**
 
-## WHAT YOU'LL CREATE
+## What you'll create
 
 ### General Level:
 
