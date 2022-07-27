@@ -1,6 +1,6 @@
 # Firebase Chat
 
-Create a chat application using Firebase as your backend.
+Create a chat application using [Firebase](https://firebase.google.com/) as your backend.
 
 Firebase is one of the most widely used service platforms for creating applications worldwide. Thanks to it, we can
 integrate in our app (and at no cost to start) features as common as authentication, push notifications, real-time
