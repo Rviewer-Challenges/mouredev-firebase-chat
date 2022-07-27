@@ -41,7 +41,7 @@ You will focus on the frontend, and Firebase will be your backend.
 
 ### Extra points (optional)
 
-Here you rule! sunglasses
+Here you rule! 😎
 
 - Are you able to send push notifications to another device every time you are texted?
 - And also send images (and save them) through the chat?
