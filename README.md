@@ -18,13 +18,13 @@ You will focus on the frontend, and Firebase will be your backend.
 
 ## What you'll create
 
-### General Level:
+### General level:
 
 - The application will have a screen where you will have to login with your Google account.
 - Once logged in, you will be able to select another registered user to chat with from a list.
 - The chat will start.
 
-### Main Screen:
+### Main screen:
 
 - Here you can select your Google account to access the App. This registration must be persisted in Firebase. If you are
   already logged in, this screen will NOT be shown.
